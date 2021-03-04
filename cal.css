@@ -1,0 +1,48 @@
+
+body
+{
+    background-color:gray;
+    width:500px;
+    margin:auto;
+    font-size:30px;
+
+}
+h1
+{
+    color:red;
+}
+title{
+    margin-bottom:10px;
+    text-align:center;
+    width:210px;
+    color:green;
+    border:solidblack 2px;
+
+}
+input[type="button"]
+{
+    color:rgb(133, 24, 24);
+    border:solidblue 6px;
+    width:100%;
+    font-size:20px;
+
+}
+input[type="text"]
+{
+    background-color:white;
+    border:solidblack 8px;
+    font-size:20px;
+    width:100%;
+
+}
+table 
+{
+    border-collapse:collapse;
+    width:100%;
+
+}
+tr
+{
+    height:40px;
+}
+</style>
